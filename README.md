@@ -2,7 +2,7 @@
 
 Welcome to the Snake Game implemented in Java Processing! 🐍
 
-![Game in Action](Screenshot (112).png)
+![Game in Action](/Screenshot (112).png)
 
 ## Overview
 
